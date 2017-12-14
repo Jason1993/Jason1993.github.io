@@ -4,4 +4,4 @@ Wenqing Cao, just graduate as a Master of Science in Computer Science from Unive
 
 During Master degree study, he studied courses such as Analysis of Algorithms, Fundations of Aritificial Intelligence, Information Retrieval, Machine Learning, Applied Natural Language Processing.
 
-For more details, you can visit his [CV] and [Github].
+For more details, you can visit his [CV](https://github.com/Jason1993/Jason1993.github.io/blob/master/Wenqing_Cao_Resume.pdf) and [Github](https://github.com/Jason1993).
