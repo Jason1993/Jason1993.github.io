@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Wenqing Cao Portfolio
 
-You can use the [editor on GitHub](https://github.com/Jason1993/Jason1993.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Wenqing Cao, just graduate as a Master of Science in Computer Science from University of Southern California(USC). He has two periods of internship experience. He is a former software engineer intern at DromeBox Labs, and former software test engineer intern at China Telecom. During his internship experiences, Wenqing participated in many projects like website development, database building and management and 3D graphics processing. He is interested in fields related to Aritificial Intelligence and Machine Learning. After he obtained a Bachelor degree at Computer Science in Nanjing University of Posts and Telecommunications, Wenqing. wanted to learn more about Computer Science and started Master program in University of Southern California.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During Master degree study, he studied courses such as Analysis of Algorithms, Fundations of Aritificial Intelligence, Information Retrieval, Machine Learning, Applied Natural Language Processing.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jason1993/Jason1993.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details, you can visit his [CV] and [Github].
